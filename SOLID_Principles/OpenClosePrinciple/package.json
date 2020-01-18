@@ -1,0 +1,22 @@
+{
+  "name": "TypescriptStarter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ntando",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "typescript": "^3.7.4",
+    "webpack-stream": "^5.2.1"
+  }
+}
